@@ -1,6 +1,6 @@
 # DISMATH_BonusProject_miggylanto
-**The Real Bonus Project, the other file DISMATH_ProjectBonus_miggylanto was empty and left accidentally.**
-**A Project finished by Leonardo Miguel V. Lanto**
+**The Real Bonus Project, the other file DISMATH_ProjectBonus_miggylanto was empty and left accidentally!**
+**A Project finished by Leonardo Miguel V. Lanto, DISMATH Section-EL**
 
 #Designers for the Application
 **Screen1**
